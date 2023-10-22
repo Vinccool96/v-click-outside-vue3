@@ -1,0 +1,9 @@
+.idea
+*.tgz
+example
+tests
+*.config.ts
+.eslintignore
+.eslintrc.cjs
+.prettierrc
+pnpm-workspace.yaml
